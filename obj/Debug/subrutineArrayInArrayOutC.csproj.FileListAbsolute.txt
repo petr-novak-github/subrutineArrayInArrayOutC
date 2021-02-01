@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\bin\Debug\subrutineArrayInArrayOutC.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\bin\Debug\subrutineArrayInArrayOutC.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\bin\Debug\subrutineArrayInArrayOutC.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\obj\Debug\subrutineArrayInArrayOutC.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\obj\Debug\subrutineArrayInArrayOutC.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\obj\Debug\subrutineArrayInArrayOutC.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\05-SubrutineArrayInArrayOut\stuff\subrutineArrayInArrayOutC\obj\Debug\subrutineArrayInArrayOutC.pdb
